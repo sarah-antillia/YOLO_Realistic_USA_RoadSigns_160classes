@@ -210,5 +210,5 @@ Y_roads
 </table>
 
 <h2>YOLO annotation </h2>
-<img src="./asset/RoadSigns_annotation.png" width="720" height="auto" ><br>
+<img src="./asset/RoadSigns_Annotation.png" width="720" height="auto" ><br>
 
