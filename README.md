@@ -176,35 +176,35 @@ Y_roads
 <h2>Sample train images </h2>
 <table>
 <tr><td>
-<img src="./train/roadsigns_1000.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1005.jpg" width="512" height="auto">
 </td></tr>
 
 <tr><td>
-<img src="./train/roadsigns_1100.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1105.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1200.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1205.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1300.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1305.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1400.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1405.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1500.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1505.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1600.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1605.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1700.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1705.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1800.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1805.jpg" width="512" height="auto">
 </td></tr>
 <tr><td>
-<img src="./train/roadsigns_1900.jpg" width="512" height="auto">
+<img src="./train/roadsigns_1905.jpg" width="512" height="auto">
 </td></tr>
 
 </table>
