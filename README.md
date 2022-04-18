@@ -8,7 +8,7 @@ It contains 160 classes, and each image size is 512x512.<br>
 This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States.</a>
 
 
-<h2>160classe (classes.txt)</h2>
+<h2>160classes (classes.txt)</h2>
 <pre>
 270_degree_loop
 Added_lane
